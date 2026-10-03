@@ -12,6 +12,9 @@
     border: 5px solid red;
     padding: 10px;
     margin-left: 100px;
+    transform: rotate(-20deg);
+    font-size: 30px;
+    color:red;
 }
 
 #top-secret {
@@ -19,5 +22,8 @@
     border: 5px solid red;
     padding: 10px;
     margin-left: 200px;
+    transform: rotate(15deg);
+    font-size: 20px;
+    color: red;
 }
 }
